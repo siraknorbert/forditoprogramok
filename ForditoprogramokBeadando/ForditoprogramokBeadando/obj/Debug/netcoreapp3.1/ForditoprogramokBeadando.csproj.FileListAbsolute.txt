@@ -1,0 +1,15 @@
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.csprojAssemblyReference.cache
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.AutomatForm.resources
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.csproj.GenerateResource.cache
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.AssemblyInfoInputs.cache
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.AssemblyInfo.cs
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.csproj.CoreCompileInputs.cache
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\netcoreapp3.1\ForditoprogramokBeadando.exe
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\netcoreapp3.1\ForditoprogramokBeadando.deps.json
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\netcoreapp3.1\ForditoprogramokBeadando.runtimeconfig.json
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\netcoreapp3.1\ForditoprogramokBeadando.runtimeconfig.dev.json
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\netcoreapp3.1\ForditoprogramokBeadando.dll
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\bin\Debug\netcoreapp3.1\ForditoprogramokBeadando.pdb
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.dll
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.pdb
+C:\Users\Sirak Norbert\source\repos\ForditoprogramokBeadando\ForditoprogramokBeadando\obj\Debug\netcoreapp3.1\ForditoprogramokBeadando.genruntimeconfig.cache
